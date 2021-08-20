@@ -1,0 +1,44 @@
+body{
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    background-image: url('https://thumbs.web.sapo.io/?W=800&H=0&delay_optim=1&epic=NTljuHLr+snqhSctbYQYFLbzU09cbStQd4xKNbYevAKz83yxx6dvewFFRYi9sZKn782CXmEmCouTm1X83uFZNPM1B27D9BoLL6rNXyC8SECp1qk=');
+     background-color: #000000;
+     background-size: 100vh;
+     background-position: center bottom;
+     background-repeat: no-repeat;
+     
+   }
+   
+   #title{
+     Color:white;
+     text-align: center;
+    }
+   
+   .page-logo {
+     width: 0px;
+   }
+   
+   h2{
+     position: absolute;
+      font-size:50px;
+      font-weight:bold;
+      top: 200px;
+      left: calc(50% - 72.5px);
+      width: 145px;
+      text-align:center;
+      color: #669999;
+      -webkit-text-stroke-width: 0.5px;
+      -webkit-text-stroke-color:#FFFF66;
+   }
+   
+   h3{
+    position: absolute;
+      font-size:50px;
+      font-weight:bold;
+      top: 50px;
+      left: calc(50% - 72.5px);
+      width: 145px;
+      text-align:center;
+      color: #669999; 
+   }
+   
